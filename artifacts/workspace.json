@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid24403",
+  "B": "/home/dev/feedback/uid24403",
+  "sha": "4cc9a9f6299c807c373bb233d9729518c0160c77",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "OpenRA",
+    "repo": "OpenRA",
+    "sha": "4cc9a9f6299c807c373bb233d9729518c0160c77"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "OpenRA",
+    "cloneUrl": "https://github.com/Rrr119/OpenRA.git"
+  },
+  "at": "2026-11-17T22:00:51.502Z"
+}
